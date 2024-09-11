@@ -14,6 +14,4 @@ KNN Achieved accuracy: 66.33%
 
 Naive Bayes  accuracy: 68.33%
 
-CNN Model Achieved accuracy: 91.97%
-
-RoBERTa Archieved accuracy: 
+RoBERTa Archieved accuracy: 90%
